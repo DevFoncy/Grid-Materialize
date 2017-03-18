@@ -1,0 +1,46 @@
+
+div#main{
+	margin:auto;
+	width: 1500px;
+	height: 1250px;
+	background-color: gray;
+}
+
+header{
+
+	text-align: center;
+	font-size: 25px;
+	margin:auto;
+	width: 1500px;
+	height: 75px;
+	background-color: yellow;
+}
+nav{
+	font-size: 25px;
+	float:left;
+	width: 120px;
+	height: 1200px;
+	background-color: red;
+}
+
+section{
+	font-size: 25px;
+	float: right;
+	width: 1380px;
+	height: 1200px;
+	background-color: #CCB163;
+}
+
+footer{
+	text-align: center;
+	font-size: 25px;
+	margin:auto;
+	width: 1500px;
+	height: 75px;
+	background-color: brown;
+
+}
+
+
+
+
